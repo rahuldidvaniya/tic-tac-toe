@@ -29,6 +29,6 @@ This project is a simple web-based Tic-Tac-Toe game where two players can play a
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/rahuldidvaniya/tic-tac-toe.git
 
 2. Open the index.html file in your web browser to start playing.
